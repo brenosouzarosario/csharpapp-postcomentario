@@ -1,0 +1,13 @@
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\bin\Debug\netcoreapp3.1\PostComentario.exe
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\bin\Debug\netcoreapp3.1\PostComentario.deps.json
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\bin\Debug\netcoreapp3.1\PostComentario.runtimeconfig.json
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\bin\Debug\netcoreapp3.1\PostComentario.runtimeconfig.dev.json
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\bin\Debug\netcoreapp3.1\PostComentario.dll
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\bin\Debug\netcoreapp3.1\PostComentario.pdb
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\obj\Debug\netcoreapp3.1\PostComentario.csprojAssemblyReference.cache
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\obj\Debug\netcoreapp3.1\PostComentario.csproj.CoreCompileInputs.cache
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\obj\Debug\netcoreapp3.1\PostComentario.AssemblyInfoInputs.cache
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\obj\Debug\netcoreapp3.1\PostComentario.AssemblyInfo.cs
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\obj\Debug\netcoreapp3.1\PostComentario.dll
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\obj\Debug\netcoreapp3.1\PostComentario.pdb
+C:\Users\Breno\Documents\Projetos\PostComentario\PostComentario\obj\Debug\netcoreapp3.1\PostComentario.genruntimeconfig.cache
